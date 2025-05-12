@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Attack on Titan",
+    "year": 2013,
+    "genre": ["Action", "Drama"],
+    "description": "Giant humanoid creatures have brought humanity to the brink of extinction.",
+    "image_url": "https://link.to/image.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Naruto",
+    "year": 2002,
+    "genre": ["Action", "Adventure"],
+    "description": "A young ninja strives to become the strongest ninja in the village.",
+    "image_url": "https://link.to/image2.jpg"
+  }
+]
